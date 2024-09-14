@@ -48,7 +48,7 @@
             {
                 "face": "JetBrainsMono Nerd Font"
             },
-            "opacity": 40,
+            "opacity": 80,
             "useAcrylic": true,
             "useAtlasEngine": true
         },
