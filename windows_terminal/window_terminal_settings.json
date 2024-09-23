@@ -4,8 +4,7 @@
     "actions": 
     [
         {
-            "command": 
-            {
+            "command": {
                 "action": "copy",
                 "singleLine": false
             },
@@ -29,6 +28,7 @@
             "keys": "ctrl+shift+f"
         }
     ],
+    "centerOnLaunch": true,
     "copyFormatting": "none",
     "copyOnSelect": false,
     "defaultProfile": "{51855cb2-8cce-5362-8f54-464b92b32386}",
