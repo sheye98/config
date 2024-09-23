@@ -1,2 +1,5 @@
-# config
-my config file repo
+# Dotfile
+这是我的 `dotfile` 仓库，里面包含了我日常使用的各种配置文件和脚本，直接复制相应的配置文件到对应目录即可。
+
+### Windows Terminal
+该配置文件为 `Windows Terminal` 的配置文件，包含了我日常使用的各种配色方案、字体、背景图片、启动命令等。直接`打开终端 --> 打开设置 --> 打开 Json 文件`，然后添加配置文件即可。
